@@ -2,7 +2,7 @@
 
 A radial ("day-as-a-dial") calendar concept — your schedule mapped onto a clock face instead of a list, so blocked time is unmistakable at a glance. Built with an Android app as the near-term target.
 
-**[Live demo →](#)** *(replace with your GitHub Pages URL once deployed — see below)*
+**[Live demo →](#)** *(replace with your GitHub Pages URL once deployed —see below)*
 
 ## What it does
 
